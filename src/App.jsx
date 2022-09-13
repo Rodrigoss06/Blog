@@ -36,7 +36,7 @@ export default function App() {
   return (
     <div>
       <Routes>
-        <Route path="/" element={<Resumen/>}/>
+        <Route path="/Blog" element={<Resumen/>}/>
         <Route path="/blog/00001" element={<Article1 id="01"/>}>
           
         </Route>
