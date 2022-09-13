@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "node dist/index"
+    "start": "vite start"
   },
   "dependencies": {
     "@emotion/react": "^11.10.4",
